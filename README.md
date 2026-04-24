@@ -26,5 +26,7 @@ The model was trained on email data and achieved 100% accuracy.
 
 ## Author
 Narmadha Malar K
+
 B.E Computer Science and Engineering (3rd Year)
+
 Aspiring AI/ML Engineer
